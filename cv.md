@@ -9,12 +9,12 @@
 
 ### Contact information:
 
--**Location** Samara 
--**Phone:** +79123456780 
--**E-mail:** vasyapupkin@mail.com 
--**Telegram:** @vasyapupkin 
--**GitHub** VladkaDm 
--**Discord** Vladislav Dmitriev (@vladkadm) 
+- **Location** Samara
+- **Phone:** +79123456780
+- **E-mail:** vasyapupkin@mail.com 
+- **Telegram:** @vasyapupkin 
+- **GitHub** [VladkaDm](https://github.com/VladkaDm) 
+- **Discord** Vladislav Dmitriev (@vladkadm) 
 
 
 
